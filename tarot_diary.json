@@ -1,0 +1,242 @@
+[
+    {
+        "date": "2026-04-21",
+        "card": "The Fool",
+        "theme": "Exploration",
+        "action_score": 4,
+        "feedback_score": 7,
+        "reflection": "I tried a new walking route after class. It felt refreshing, and I noticed a small cafe I want to visit later."
+    },
+    {
+        "date": "2026-04-22",
+        "card": "The Magician",
+        "theme": "Learning",
+        "action_score": 6,
+        "feedback_score": 6,
+        "reflection": "I reviewed lecture notes carefully and made a short summary. The work felt steady, even though progress was not dramatic."
+    },
+    {
+        "date": "2026-04-23",
+        "card": "The Moon",
+        "theme": "Health",
+        "action_score": 7,
+        "feedback_score": 4,
+        "reflection": "I pushed myself to exercise, but my body felt tired afterward. I think I needed more rest before doing intense movement."
+    },
+    {
+        "date": "2026-04-24",
+        "card": "The Lovers",
+        "theme": "Social",
+        "action_score": 5,
+        "feedback_score": 8,
+        "reflection": "I messaged a friend and we had a warm conversation. It reminded me that connection does not always require huge effort."
+    },
+    {
+        "date": "2026-04-25",
+        "card": "The Fool",
+        "theme": "Exploration",
+        "action_score": 3,
+        "feedback_score": 3,
+        "reflection": "I wanted to try something different, but I stayed mostly in my usual routine. The day felt calm but not very exciting."
+    },
+    {
+        "date": "2026-04-26",
+        "card": "The Magician",
+        "theme": "Learning",
+        "action_score": 8,
+        "feedback_score": 5,
+        "reflection": "I studied for a long time, but I became stuck on one concept. Next time I should ask for help earlier."
+    },
+    {
+        "date": "2026-04-27",
+        "card": "The Moon",
+        "theme": "Health",
+        "action_score": 4,
+        "feedback_score": 6,
+        "reflection": "I took a slower day and drank more water. My energy improved slightly, and my body felt less tense."
+    },
+    {
+        "date": "2026-04-28",
+        "card": "The Lovers",
+        "theme": "Social",
+        "action_score": 7,
+        "feedback_score": 7,
+        "reflection": "I made time for a proper conversation instead of replying quickly. The effort felt equal to the warmth I received."
+    },
+    {
+        "date": "2026-04-29",
+        "card": "The Fool",
+        "theme": "Exploration",
+        "action_score": 6,
+        "feedback_score": 8,
+        "reflection": "I joined a small campus activity without overthinking it. I felt nervous at first, but it became surprisingly fun."
+    },
+    {
+        "date": "2026-04-30",
+        "card": "The Magician",
+        "theme": "Learning",
+        "action_score": 5,
+        "feedback_score": 4,
+        "reflection": "I practiced Python examples, but I kept making small syntax mistakes. I need to slow down and read errors carefully."
+    },
+    {
+        "date": "2026-05-01",
+        "card": "The Moon",
+        "theme": "Health",
+        "action_score": 6,
+        "feedback_score": 9,
+        "reflection": "I slept earlier and stretched in the morning. The simple routine made my body feel lighter throughout the day."
+    },
+    {
+        "date": "2026-05-02",
+        "card": "The Lovers",
+        "theme": "Social",
+        "action_score": 3,
+        "feedback_score": 5,
+        "reflection": "I did not socialize much, but one short chat still felt comforting. Small contact was enough today."
+    },
+    {
+        "date": "2026-05-03",
+        "card": "The Fool",
+        "theme": "Exploration",
+        "action_score": 8,
+        "feedback_score": 4,
+        "reflection": "I tried to do too many new things in one day. Instead of feeling free, I felt scattered and tired."
+    },
+    {
+        "date": "2026-05-04",
+        "card": "The Magician",
+        "theme": "Learning",
+        "action_score": 4,
+        "feedback_score": 7,
+        "reflection": "I watched one tutorial and finally understood a confusing idea. A small focused session worked better than expected."
+    },
+    {
+        "date": "2026-05-05",
+        "card": "The Moon",
+        "theme": "Health",
+        "action_score": 5,
+        "feedback_score": 5,
+        "reflection": "I kept my meals simple and walked for a while. My body felt stable, neither especially tired nor especially energetic."
+    },
+    {
+        "date": "2026-05-06",
+        "card": "The Lovers",
+        "theme": "Social",
+        "action_score": 9,
+        "feedback_score": 6,
+        "reflection": "I spent lots of energy helping others today. It felt meaningful, but I also noticed I needed clearer boundaries."
+    },
+    {
+        "date": "2026-05-07",
+        "card": "The Fool",
+        "theme": "Exploration",
+        "action_score": 2,
+        "feedback_score": 4,
+        "reflection": "I made one tiny change by studying in a different place. It was not a big adventure, but it changed my mood."
+    },
+    {
+        "date": "2026-05-08",
+        "card": "The Magician",
+        "theme": "Learning",
+        "action_score": 7,
+        "feedback_score": 9,
+        "reflection": "I solved a coding problem after breaking it into functions. The progress felt satisfying and made me more confident."
+    },
+    {
+        "date": "2026-05-09",
+        "card": "The Moon",
+        "theme": "Health",
+        "action_score": 8,
+        "feedback_score": 8,
+        "reflection": "I balanced exercise with enough food and rest. My energy stayed strong, and the routine felt sustainable."
+    },
+    {
+        "date": "2026-05-10",
+        "card": "The Lovers",
+        "theme": "Social",
+        "action_score": 4,
+        "feedback_score": 3,
+        "reflection": "I avoided a conversation that probably mattered. The distance felt uncomfortable, and I should be more honest next time."
+    },
+    {
+        "date": "2026-05-11",
+        "card": "The Fool",
+        "theme": "Exploration",
+        "action_score": 6,
+        "feedback_score": 5,
+        "reflection": "I tried a different study plan, but it was only partly useful. I learned what does not suit me."
+    },
+    {
+        "date": "2026-05-12",
+        "card": "The Magician",
+        "theme": "Learning",
+        "action_score": 5,
+        "feedback_score": 8,
+        "reflection": "I practiced a small section of code and finally saw the pattern. The result felt bigger than the time spent."
+    },
+    {
+        "date": "2026-05-13",
+        "card": "The Moon",
+        "theme": "Health",
+        "action_score": 3,
+        "feedback_score": 6,
+        "reflection": "I chose rest instead of forcing productivity. My body felt grateful, and my mind became calmer by evening."
+    },
+    {
+        "date": "2026-05-14",
+        "card": "The Lovers",
+        "theme": "Social",
+        "action_score": 7,
+        "feedback_score": 4,
+        "reflection": "I tried hard to keep everyone comfortable, but it drained me. I need to stop carrying every social mood."
+    },
+    {
+        "date": "2026-05-15",
+        "card": "The Fool",
+        "theme": "Exploration",
+        "action_score": 5,
+        "feedback_score": 6,
+        "reflection": "I explored a new idea for my project and wrote it down. It was simple, but it opened another direction."
+    },
+    {
+        "date": "2026-05-16",
+        "card": "The Magician",
+        "theme": "Learning",
+        "action_score": 9,
+        "feedback_score": 9,
+        "reflection": "I had a strong study day and connected several concepts. The effort felt intense but very rewarding."
+    },
+    {
+        "date": "2026-05-17",
+        "card": "The Moon",
+        "theme": "Health",
+        "action_score": 6,
+        "feedback_score": 3,
+        "reflection": "I kept moving even though I felt exhausted. The effort did not help much, so rest should come first tomorrow."
+    },
+    {
+        "date": "2026-05-18",
+        "card": "The Lovers",
+        "theme": "Social",
+        "action_score": 2,
+        "feedback_score": 7,
+        "reflection": "A friend reached out before I did anything. I felt supported and reminded that care can arrive naturally."
+    },
+    {
+        "date": "2026-05-19",
+        "card": "The Fool",
+        "theme": "Exploration",
+        "action_score": 7,
+        "feedback_score": 7,
+        "reflection": "I tried a new planning style for the day. It was unfamiliar, but it helped me feel more open."
+    },
+    {
+        "date": "2026-05-20",
+        "card": "The Magician",
+        "theme": "Learning",
+        "action_score": 6,
+        "feedback_score": 8,
+        "reflection": "I reviewed my project code and understood more than before. The progress made the final task feel less scary."
+    }
+]
